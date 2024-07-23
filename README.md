@@ -1,16 +1,28 @@
-# calculator
+# Flutter Calculator App
 
-A new Flutter project.
+A modern, feature-rich calculator app built with Flutter. This app provides a sleek user interface with light and dark themes, basic arithmetic operations, and a unit converter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
+- **Responsive UI**: Works on various screen sizes.
+- **Theme Toggle**: Switch between light and dark themes.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Use the number pad to input values.
+- Tap on operation buttons (+, -, ×, ÷) to perform calculations.
+- Use the 'AC' button to clear the input.
+- Tap the theme toggle button in the top left corner to switch between light and dark themes.
+- Access the unit converter by tapping the floating action button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Future Enhancements
+
+- Scientific calculator mode
+- History of calculations
+- Customizable themes
+- Localization support
